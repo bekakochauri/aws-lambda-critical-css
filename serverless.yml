@@ -20,3 +20,4 @@ functions:
     memorySize: 2048
     maximumEventAge: 600
     maximumRetryAttempts: 0
+    
